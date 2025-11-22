@@ -1,2 +1,2 @@
-# RemixGenerals
+# RemixResources
 yep
